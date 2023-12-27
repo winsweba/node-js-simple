@@ -1,0 +1,11 @@
+01-task-manager/node_modules
+01-task-manager/.env
+
+02-store-api/node_modules
+02-store-api/.env
+
+03-JWT-Basics/node_modules
+03-JWT-Basics/.env
+
+04-job-api/node_modules
+04-job-api/.env
